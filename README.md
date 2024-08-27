@@ -1,4 +1,4 @@
-MyToken Smart Contract
+#MyToken Smart Contract
 A simple smart contract example demonstrating a basic ERC-20 like token implementation in Solidity.
 
 Description
